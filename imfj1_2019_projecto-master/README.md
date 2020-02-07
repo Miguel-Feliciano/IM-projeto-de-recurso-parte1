@@ -14,4 +14,4 @@ A parte do trabalho no 'sample' foi a que levantou mais problemas pois apesar de
 
 ---
 Trabalho realizado por:
-Miguel Feliciano a21904115
+Miguel Feliciano a21904115 GITHub account Mike-Feliz
